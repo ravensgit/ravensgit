@@ -1,5 +1,5 @@
 <a href="https://github.com/ravensgit">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Built%20production%20systems%20that%20serve%20real%20users.&descAlignY=62&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Still%20know%20how%20to%20ship%20production%20code.&descAlignY=62&descSize=16" />
 </a>
 
 <div align="center">
@@ -26,12 +26,14 @@ naveen.cspro@gmail.com
 
 ---
 
+---
+
 # About Me
 
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"
-    width="75%"
+    width="48%"
     alt="Software Engineer | Backend Systems | Data Platforms | AI/ML Platforms"
   />
 </p>
@@ -43,54 +45,21 @@ class NaveenManikandan:
 
     degree = "MS Computer Science & Engineering @ University at Buffalo"
 
-    core = {
-        "software": [
-            "Java",
-            "Spring Boot",
-            "REST APIs",
-            "Microservices"
-        ],
-        
-        "data": [
-            "SQL",
-            "PySpark",
-            "Kafka",
-            "ETL Pipelines"
-        ],
-        
-        "ai": [
-            "PyTorch",
-            "BLIP",
-            "CLIP",
-            "Hugging Face"
-        ],
-        
-        "infra": [
-            "Docker",
-            "Kubernetes",
-            "GCP",
-            "CI/CD"
-        ]
+    expertise = {
+        "software": ["Java", "Spring Boot", "REST APIs", "Microservices"],
+        "data": ["SQL", "PySpark", "Kafka", "ETL Pipelines"],
+        "ai": ["PyTorch", "BLIP", "CLIP", "Hugging Face"],
+        "infra": ["Docker", "Kubernetes", "GCP", "CI/CD"]
     }
 
-    experience = (
-        "3 years at TCS building Java backend systems "
-        "and enterprise data pipelines"
-    )
+    experience = "3 years at TCS building Java backend systems and enterprise data pipelines"
 
     current_focus = [
-        "Production RAG systems with FastAPI and LangGraph",
+        "RAG Systems (FastAPI, LangGraph)",
         "ML Platforms and MLOps",
         "Scalable Backend and Data Systems"
     ]
-
-    def engineering_style(self):
-        return (
-            "Build reliable systems first. "
-            "Add intelligence where it creates value."
-        )
 ```
-
 ---
 
 ##  Tech Stack
