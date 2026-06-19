@@ -1,5 +1,5 @@
 <a href="https://github.com/ravensgit">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Built%20production%20systems%20that%20serve%20real%20users.&descAlignY=62&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Still%20know%20how%20to%20ship%20production%20code.
 </a>
 
 <div align="center">
