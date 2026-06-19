@@ -76,7 +76,7 @@ class NaveenManikandan:
 <br clear="right"/>
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -144,7 +144,7 @@ class NaveenManikandan:
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -158,7 +158,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravensgit&la
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -179,7 +179,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravensgit&la
 
 ---
 
-# 💼 Professional Journey
+#  Professional Journey
 
 ```yaml
 Tata Consultancy Services (TCS)
@@ -208,9 +208,9 @@ Over 3 years at TCS, I worked across enterprise data engineering and backend dev
 
 ---
 
-# 🚀 Featured Engineering Projects
+#  Featured Engineering Projects
 
-## 🧠 Hallucination Grounding in Vision-Language Models
+##  Hallucination Grounding in Vision-Language Models
 **Tech:** Python · PyTorch · BLIP · CLIP · Hugging Face
 
 - Designed a training-free caption selection framework to reduce hallucinated object mentions without retraining the underlying model.
@@ -220,7 +220,7 @@ Over 3 years at TCS, I worked across enterprise data engineering and backend dev
 
 ---
 
-## 🌎 Earthquake Risk Analysis Platform
+##  Earthquake Risk Analysis Platform
 **Tech:** PySpark · XGBoost · LightGBM · Scikit-learn · Streamlit
 
 - Built a scalable PySpark-based machine learning pipeline over 73K USGS seismic records.
@@ -230,7 +230,7 @@ Over 3 years at TCS, I worked across enterprise data engineering and backend dev
 
 ---
 
-## 🖼️ Image Classification with Neural Networks
+##  Image Classification with Neural Networks
 **Tech:** TensorFlow · Scikit-learn
 
 - Developed a CNN on Fashion-MNIST with 92.29% test accuracy.
@@ -238,25 +238,25 @@ Over 3 years at TCS, I worked across enterprise data engineering and backend dev
 
 ---
 
-# 🏆 Recognition & Achievements
+#  Recognition & Achievements
 
-- 🥇 **Star of the Month (2×)** — Tata Consultancy Services  
+-  **Star of the Month (2×)** — Tata Consultancy Services  
   Recognized for outstanding performance, ownership and consistent delivery contributions.
 
-- ⭐ **On-the-Spot Award** — Tata Consultancy Services  
+-  **On-the-Spot Award** — Tata Consultancy Services  
   Recognized for delivering a production change with zero business disruption.
 
-- 🎓 **Master of Science in Computer Science & Engineering**  
+-  **Master of Science in Computer Science & Engineering**  
   University at Buffalo (SUNY), May 2026
 
-- 🔬 **Research Achievement**  
+-  **Research Achievement**  
   Reduced VLM hallucination rates by 82% through a training-free grounding framework.
 
 ---
 
 ---
 
-# 🚀 Building Now
+#  Building Now
 
 ## Cloud Native RAG Platform (In Progress)
 
@@ -270,18 +270,18 @@ Designing a production-oriented retrieval-augmented generation system with scala
 
 ### Planned Features
 
-- 📄 Document ingestion and preprocessing pipelines
-- 🔎 Semantic search and vector retrieval
-- 🧠 LLM-powered question answering workflows
-- 🔐 Authentication and API management
-- 🐳 Containerized deployment using Docker
-- ☸️ Kubernetes-based service orchestration
-- 📊 Logging, monitoring and observability
-- 🔄 CI/CD based deployment workflow
+-  Document ingestion and preprocessing pipelines
+-  Semantic search and vector retrieval
+-  LLM-powered question answering workflows
+-  Authentication and API management
+-  Containerized deployment using Docker
+-  Kubernetes-based service orchestration
+-  Logging, monitoring and observability
+-  CI/CD based deployment workflow
 
 ---
 
-# 📚 Currently Exploring
+#  Currently Exploring
 
 ```python
 current_focus = {
@@ -313,7 +313,7 @@ current_focus = {
 
 ---
 
-# 🎯 Career Interests
+#  Career Interests
 
 I am passionate about building systems where software engineering, data infrastructure and AI work together.
 
@@ -322,20 +322,19 @@ Areas of interest include:
 - Backend Engineering
 - Data Engineering
 - AI/ML Platforms
-- MLOps
+- AI Infrastructure Engineering
+- ML Platforms and MLOps
 - Scalable Data Systems
 
 ---
 
-# 🌱 Engineering Philosophy
-
-> "Modern AI systems require more than just models. They require reliable software, scalable data pipelines and strong engineering foundations."
+# "Modern AI systems require more than just models. They require reliable software, scalable data pipelines and strong engineering foundations."
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Build Something Meaningful
+###  Let's Build Something Meaningful
 
 Open to full-time opportunities
 
