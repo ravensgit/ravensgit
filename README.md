@@ -27,16 +27,13 @@ naveen.cspro@gmail.com
 ---
 # About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img align="right" width="360" src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"/>
 
 ```python
 class NaveenManikandan:
     name = "Naveen Manikandan"
-    location = "Buffalo, NY, USA"
-
     degree = "MS Computer Science & Engineering @ University at Buffalo"
+    location = "Buffalo, NY, USA"
 
     expertise = {
         "software": ["Java", "Spring Boot", "REST APIs", "Microservices"],
@@ -52,21 +49,11 @@ class NaveenManikandan:
         "ML Platforms and MLOps",
         "Scalable Backend and Data Systems"
     ]
+
+    def motto(self)
+        return "Build reliable systems. Add intelligence where it creates value."
 ```
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img 
-  src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"
-  width="100%"
-  alt="Software Engineer | Backend Systems | Data Platforms | AI/ML Platforms"
-/>
-
-</td>
-</tr>
-</table>
-
+<br clear="right"/>
 ---
 
 ##  Tech Stack
