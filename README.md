@@ -7,20 +7,19 @@
 </div>
 
 <br/>
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ravensgit&style=flat-square&color=70a5fd&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=ravensgit&style=flat-square&color=70a5fd&label=Profile%20Views" />
 
 <a href="https://www.linkedin.com/in/naveen-cspro/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Manikandan-0A66C2?style=flat-square" />
 </a>
 
 <a href="mailto:naveen.cspro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-naveen.cspro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-naveen.cspro%40gmail.com-EA4335?style=flat-square" />
 </a>
 
-<img src="https://img.shields.io/badge/Location-Buffalo%2C%20NY-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Buffalo%2C%20NY-38BDAE?style=flat-square" />
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 
