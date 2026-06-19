@@ -1,109 +1,141 @@
 <a href="https://github.com/ravensgit">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Still%20know%20how%20to%20ship%20production%20code.&descAlignY=62&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Built%20production%20systems%20that%20serve%20real%20users.&descAlignY=62&descSize=16" />
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+ML+Engineer;Reduced+AI+Hallucination+by+82%25+in+VLMs;Spring+Boot+%2B+PyTorch+%2B+PySpark;MS+CS+%40+SUNY+Buffalo+%7C+Open+to+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Backend+%26+Data+Systems+%7C+AI%2FML+Platforms;Java+%7C+Python+%7C+3+Years+%40+TCS;MS+CS+%40+University+at+Buffalo+%7C+Open+to+Work" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravensgit&style=flat-square&color=70a5fd&label=Profile+Views" />
-  <a href="https://linkedin.com/in/naveen-cspro">
-    <img src="https://img.shields.io/badge/LinkedIn-naveen--cspro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naveen.cspro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-naveen.cspro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Buffalo%2C%20NY-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
+
+<img src="https://komarev.com/ghpvc/?username=ravensgit&style=flat-square&color=70a5fd&label=Profile+Views" />
+
+<a href="https://www.linkedin.com/in/naveen-cspro/">
+  <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Manikandan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:naveen.cspro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-naveen.cspro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Location-Buffalo%2C%20NY-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
+
 </div>
 
 ---
 
-##  About Me
+# About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class NaveenManikandan:
 
-    name        = "Naveen Manikandan"
-    location    = "Buffalo, NY, USA"
-    degree      = "MS Computer Science @ SUNY Buffalo (May 2026)"
+    name = "Naveen Manikandan"
+    location = "Buffalo, NY, USA"
+
+    degree = "MS Computer Science & Engineering @ University at Buffalo (May 2026)"
 
     stack = [
-        "Java", "Python", "Spring Boot", "PyTorch",
-        "PySpark", "BLIP", "CLIP", "Hugging Face",
-        "TensorFlow", "Apache Kafka", "Docker", "GCP"
+        "Java",
+        "Python",
+        "Spring Boot",
+        "PyTorch",
+        "PySpark",
+        "BLIP",
+        "CLIP",
+        "Hugging Face",
+        "TensorFlow",
+        "Apache Kafka",
+        "Docker",
+        "GCP"
     ]
 
     currently_learning = [
-        "LangChain & RAG pipelines",
-        "LLM fine-tuning techniques",
-        "MLOps & model deployment"
+        "Cloud-native RAG systems",
+        "ML Platforms and MLOps",
+        "Distributed Data Systems"
     ]
 
     experience = {
         "TCS": "3 years | Java Backend + ETL",
-        "MS Research": "VLMs, Distributed ML, Deep Learning"
+        "MS Research": "VLMs, Model Evaluation, Deep Learning"
     }
 
-    fun_fact = "CLIP alone made hallucination WORSE. \
-                The penalty terms saved everything."
+    fun_fact = "CLIP alignment alone made hallucination worse.
+                Better grounding came from understanding the failure mode."
 
     def motto(self):
-        return "Build systems that work. \
-                Build AI that doesn't hallucinate."
+        return "Build production systems. Build AI that people can trust."
 ```
 
 <br clear="right"/>
-
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Backend & APIs**
+---
+
+### Backend & APIs
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0089D6?style=flat-square&logo=azuredevops&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square)
 
-**ML & Data**
+---
+
+### Data & Distributed Systems
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+### Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
-**AI / Multimodal**
+---
 
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+### AI / Multimodal
+
 ![BLIP](https://img.shields.io/badge/BLIP-BF91F3?style=flat-square&logoColor=white)
 ![CLIP](https://img.shields.io/badge/CLIP-70A5FD?style=flat-square&logoColor=white)
 ![Vision-Language Models](https://img.shields.io/badge/Vision--Language_Models-38BDAE?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Cloud & DevOps**
+---
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0089D6?style=flat-square&logo=azure-devops&logoColor=white)
+### Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0089D6?style=flat-square&logo=azure-devops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Databases**
+---
+
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -112,154 +144,205 @@ class NaveenManikandan:
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ravensgit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravensgit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/ravensgit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravensgit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
-##  Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ravensgit&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
-
----
-
-##  Activity Graph
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravensgit&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
-##  Work Experience
-
-<details>
-<summary><b> Tata Consultancy Services — System Engineer, Java Backend</b> &nbsp;|&nbsp; Apr 2024 – Dec 2024 &nbsp;|&nbsp; Chennai, India</summary>
-
-<br/>
-
-> `Java` `Spring Boot` `Hibernate` `RESTful APIs` `Microservices` `JUnit` `Docker` `Azure CI/CD` `SQL`
-
-- Developed and shipped backend features for a high-traffic retail CRM serving a major Australian supermarket chain, contributing to **10+ Spring Boot microservices** in an Agile team
-- Built and extended billing and transaction RESTful APIs handling customer order data across a distributed microservices architecture
-- Diagnosed and resolved database timeout errors on high-volume endpoints by identifying unoptimized queries and applying indexing fixes, improving response reliability on billing flows
-- Expanded JUnit test coverage across service classes and contributed to Docker-based deployments through Azure CI/CD pipelines on a bi-weekly release cycle
--  **Star of the Month Award — May 2024** for consistent delivery and technical contribution
-
-</details>
-
-<details>
-<summary><b> Tata Consultancy Services — Assistant System Engineer, Data Integration</b> &nbsp;|&nbsp; Jan 2023 – Mar 2024 &nbsp;|&nbsp; Chennai, India</summary>
-
-<br/>
-
-> `Informatica PowerCenter` `IICS` `ETL` `SQL` `Shell Scripting` `SAP` `Oracle` `GCP` `Salesforce` `Kronos HRM`
-
-- Built ETL pipelines from business requirements covering data flows across SAP, Oracle, GCP, Salesforce and Kronos HRM
-- Debugged and refactored existing pipelines by fixing transformation logic and validating outputs before each production release
-- Traced and resolved job failures from server issues and connection timeouts on scheduled batch pipelines, restoring delivery within SLA windows
-- Automated data validation using SQL and shell scripts, eliminating manual checks on routine pipeline runs
--  **On the Spot Award — Sep 2023** for implementing a production change with zero business disruption and minimal downtime
--  **Star of the Month Award — Feb 2024** for consistent delivery
-
-</details>
-
-<details>
-<summary><b>🏢 Tata Consultancy Services — Assistant System Engineer, Trainee</b> &nbsp;|&nbsp; Dec 2021 – Dec 2022 &nbsp;|&nbsp; Chennai, India</summary>
-
-<br/>
-
-> `ETL` `SQL` `Linux` `Informatica` `Shell Scripting`
-
-- Completed structured onboarding in ETL development, SQL, Linux and Informatica
-- Moved into active production pipeline support within **3 months** of joining
-- Contributed to production workflows through data validation, issue triage and pipeline fixes on live deployments
-
-</details>
-
----
-
-##  Featured Projects
+# 📊 GitHub Statistics
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [Hallucination Grounding in VLMs](https://github.com/ravensgit) | Python · PyTorch · BLIP · CLIP · Hugging Face | Reduced hallucination rate from **4.08% → 0.74%** (82% reduction) on 5,000 COCO images · Training-free inference · Ablation study across 7 weight configurations |
-| [Earthquake Risk Analysis](https://quakeanalysis.streamlit.app) | Python · PySpark · XGBoost · LightGBM · Streamlit | Distributed ML pipeline over **73K USGS records** · Custom Reliability feature engineering · Best model: RMSE 0.029, R² 0.994 · **Live deployed app** |
-| [Image Classification with Neural Networks](https://github.com/ravensgit) | Python · TensorFlow · Scikit-learn | 10-layer CNN on Fashion MNIST · **92.29% test accuracy** · L2 over dropout · Income classifier: **86% accuracy**, macro F1 0.81 |
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=ravensgit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravensgit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 
 </div>
 
 ---
 
-## Achievements
+# 🔥 GitHub Streak
 
 <div align="center">
 
-| | Achievement | Details |
-|-|------------|---------|
-| Star of the Month Award | Tata Consultancy Services · May 2024 |
-| Star of the Month Award | Tata Consultancy Services · Feb 2024 |
-| On the Spot Award | Tata Consultancy Services · Sep 2023 · Zero downtime production change |
-| VLM Hallucination Research | 82% reduction in CHAIRs score · 5,000 COCO val2017 images |
-| Live ML Deployment | quakeanalysis.streamlit.app · 73K records · Real-time magnitude predictor |
+<img src="https://streak-stats.demolab.com?user=ravensgit&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 
 </div>
 
 ---
 
-##  Education
+# 📈 Activity Graph
 
 <div align="center">
 
-| Degree | Institution | Period | Grade |
-|--------|------------|--------|-------|
-| MS Computer Science & Engineering | State University of New York at Buffalo | Jan 2025 – May 2026 | — |
-| BE Electrical & Electronics Engineering | Anna University Chennai | 2017 – 2021 | First Class |
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravensgit&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 </div>
-
-**MS Coursework:** Machine Learning · Deep Learning · Data Intensive Computing · Algorithms · Computer Security · Modern Network Concepts · Computer Architecture
+---
 
 ---
 
-##  Currently Learning
+# 💼 Professional Journey
 
-```
-   LangChain         →  RAG pipelines · Retrieval-Augmented Generation
-   LLM Fine-tuning   →  LoRA · PEFT · Instruction tuning
-   MLOps            →  Model serving · Monitoring · CI/CD for ML
-   Cloud ML         →  GCP Vertex AI · Model deployment at scale
+```yaml
+Tata Consultancy Services (TCS)
+Duration: December 2021 – December 2024
+Role Progression:
+  - Assistant System Engineer Trainee
+  - Assistant System Engineer – Data Integration
+  - System Engineer – Java Backend
 ```
 
+Over 3 years at TCS, I worked across enterprise data engineering and backend development, contributing to production systems supporting large-scale retail operations.
+
+### Backend Engineering
+
+- Built and enhanced 10+ Java Spring Boot microservices following REST architecture and Agile development practices.
+- Developed customer-facing billing and transaction APIs for a retail CRM platform serving one of Australia's largest supermarket chains.
+- Diagnosed database performance bottlenecks, optimized SQL queries and indexing strategies to improve critical production workflows.
+- Increased JUnit test coverage, supported production issue resolution and contributed to Docker and Kubernetes-based deployments through Azure CI/CD pipelines.
+
+### Data Engineering
+
+- Built and maintained enterprise ETL pipelines using Informatica PowerCenter and IICS.
+- Integrated data across SAP, Oracle, GCP, Salesforce and Kronos ecosystems.
+- Debugged production batch failures, resolved connection issues and maintained SLA-driven data deliveries.
+- Automated validation workflows using SQL and shell scripting, reducing repetitive manual verification.
+
 ---
 
-##  Let's Connect
+# 🚀 Featured Engineering Projects
+
+## 🧠 Hallucination Grounding in Vision-Language Models
+**Tech:** Python · PyTorch · BLIP · CLIP · Hugging Face
+
+- Designed a training-free caption selection framework to reduce hallucinated object mentions without retraining the underlying model.
+- Evaluated 6 candidate captions per image using a hybrid scoring approach combining CLIP alignment with object-count and length penalties.
+- Reduced hallucination rate from **4.08% to 0.74%** across **5,000 COCO images**, achieving an **82% relative reduction**.
+- Conducted a 7-configuration ablation study and discovered that CLIP alignment alone increased hallucination, leading to a more reliable grounding strategy.
+
+---
+
+## 🌎 Earthquake Risk Analysis Platform
+**Tech:** PySpark · XGBoost · LightGBM · Scikit-learn · Streamlit
+
+- Built a scalable PySpark-based machine learning pipeline over 73K USGS seismic records.
+- Engineered domain-specific seismic reliability features and evaluated 7 ML models.
+- Selected Random Forest for deployment based on performance and interpretability.
+- Deployed an interactive Streamlit application featuring geographic risk visualization and magnitude prediction.
+
+---
+
+## 🖼️ Image Classification with Neural Networks
+**Tech:** TensorFlow · Scikit-learn
+
+- Developed a CNN on Fashion-MNIST with 92.29% test accuracy.
+- Built a neural network classifier on the UCI Adult dataset achieving 86% accuracy and 0.81 macro F1-score.
+
+---
+
+# 🏆 Recognition & Achievements
+
+- 🥇 **Star of the Month (2×)** — Tata Consultancy Services  
+  Recognized for outstanding performance, ownership and consistent delivery contributions.
+
+- ⭐ **On-the-Spot Award** — Tata Consultancy Services  
+  Recognized for delivering a production change with zero business disruption.
+
+- 🎓 **Master of Science in Computer Science & Engineering**  
+  University at Buffalo (SUNY), May 2026
+
+- 🔬 **Research Achievement**  
+  Reduced VLM hallucination rates by 82% through a training-free grounding framework.
+
+---
+
+---
+
+# 🚀 Building Now
+
+## Cloud Native RAG Platform (In Progress)
+
+**Tech Stack**
+
+FastAPI • LangGraph • Vector Database • PostgreSQL • Docker • Kubernetes • AWS
+
+**Goal**
+
+Designing a production-oriented retrieval-augmented generation system with scalable backend architecture and modern AI engineering practices.
+
+### Planned Features
+
+- 📄 Document ingestion and preprocessing pipelines
+- 🔎 Semantic search and vector retrieval
+- 🧠 LLM-powered question answering workflows
+- 🔐 Authentication and API management
+- 🐳 Containerized deployment using Docker
+- ☸️ Kubernetes-based service orchestration
+- 📊 Logging, monitoring and observability
+- 🔄 CI/CD based deployment workflow
+
+---
+
+# 📚 Currently Exploring
+
+```python
+current_focus = {
+    "Backend Engineering": [
+        "Java and Spring Boot architecture",
+        "API design and performance optimization",
+        "Distributed backend patterns"
+    ],
+
+    "Data Systems": [
+        "Apache Spark",
+        "Kafka streaming concepts",
+        "Data platform architectures"
+    ],
+
+    "AI Systems": [
+        "RAG architectures",
+        "LLM application engineering",
+        "ML platforms and MLOps"
+    ],
+
+    "Cloud and Infrastructure": [
+        "Docker",
+        "Kubernetes",
+        "AWS deployment"
+    ]
+}
+```
+
+---
+
+# 🎯 Career Interests
+
+I am passionate about building systems where software engineering, data infrastructure and AI work together.
+
+Areas of interest include:
+
+- Backend Engineering
+- Data Engineering
+- AI/ML Platforms
+- MLOps
+- Scalable Data Systems
+
+---
+
+# 🌱 Engineering Philosophy
+
+> "Modern AI systems require more than just models. They require reliable software, scalable data pipelines and strong engineering foundations."
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-cspro)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveen.cspro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravensgit)
-[![Live App](https://img.shields.io/badge/Live%20App-Earthquake%20Risk%20Analysis-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://quakeanalysis.streamlit.app)
+### 🤝 Let's Build Something Meaningful
+
+Open to full-time opportunities
+
+**Software Engineer • Backend Engineer • Data Engineer • AI Platform Engineer**
+
+📍 Buffalo, NY, USA
+
+📧 naveen.cspro@gmail.com
 
 </div>
-
----
-
-<div align="center">
-  <i>Open to full-time, contract and internship opportunities · Software Engineer · ML Engineer · AI Engineer</i>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
