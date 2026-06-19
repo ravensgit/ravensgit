@@ -32,7 +32,7 @@ naveen.cspro@gmail.com
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ```python
 class NaveenManikandan:
@@ -61,7 +61,7 @@ class NaveenManikandan:
 
 </td>
 
-<td width="40%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 
 <img 
   src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"
