@@ -25,18 +25,11 @@ naveen.cspro@gmail.com
 </div>
 
 ---
-
----
-
 # About Me
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"
-    width="48%"
-    alt="Software Engineer | Backend Systems | Data Platforms | AI/ML Platforms"
-  />
-</p>
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ```python
 class NaveenManikandan:
@@ -60,6 +53,20 @@ class NaveenManikandan:
         "Scalable Backend and Data Systems"
     ]
 ```
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img 
+  src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"
+  width="100%"
+  alt="Software Engineer | Backend Systems | Data Platforms | AI/ML Platforms"
+/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ##  Tech Stack
