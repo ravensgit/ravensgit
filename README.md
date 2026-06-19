@@ -1,5 +1,5 @@
 <a href="https://github.com/ravensgit">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=145&section=header&text=Naveen%20Manikandan&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Still%20know%20how%20to%20ship%20production%20code.&descAlignY=68&descSize=14" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Built%20production%20systems%20that%20serve%20real%20users.&descAlignY=62&descSize=16" />
 </a>
 
 <div align="center">
@@ -7,19 +7,22 @@
 </div>
 
 <br/>
+
 <div align="center">
 
-👤 LinkedIn: 
+<img src="https://komarev.com/ghpvc/?username=ravensgit&style=flat-square&color=70a5fd&label=Profile+Views" />
+
 <a href="https://www.linkedin.com/in/naveen-cspro/">
-linkedin.com/in/naveen-cspro
+  <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Manikandan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-📧 Email:
 <a href="mailto:naveen.cspro@gmail.com">
-naveen.cspro@gmail.com
+  <img src="https://img.shields.io/badge/Email-naveen.cspro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
-📍 Buffalo, NY | 🟢 Open to Work
+<img src="https://img.shields.io/badge/Location-Buffalo%2C%20NY-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 
 </div>
 
