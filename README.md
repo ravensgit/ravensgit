@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -62,7 +62,7 @@ class NaveenManikandan:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -112,7 +112,7 @@ class NaveenManikandan:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/ravensgit">
@@ -125,7 +125,7 @@ class NaveenManikandan:
 
 ---
 
-## 🔥 Streak
+##  Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ravensgit&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
@@ -133,7 +133,7 @@ class NaveenManikandan:
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravensgit&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
@@ -141,10 +141,10 @@ class NaveenManikandan:
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 <details>
-<summary><b>🏢 Tata Consultancy Services — System Engineer, Java Backend</b> &nbsp;|&nbsp; Apr 2024 – Dec 2024 &nbsp;|&nbsp; Chennai, India</summary>
+<summary><b> Tata Consultancy Services — System Engineer, Java Backend</b> &nbsp;|&nbsp; Apr 2024 – Dec 2024 &nbsp;|&nbsp; Chennai, India</summary>
 
 <br/>
 
@@ -154,12 +154,12 @@ class NaveenManikandan:
 - Built and extended billing and transaction RESTful APIs handling customer order data across a distributed microservices architecture
 - Diagnosed and resolved database timeout errors on high-volume endpoints by identifying unoptimized queries and applying indexing fixes, improving response reliability on billing flows
 - Expanded JUnit test coverage across service classes and contributed to Docker-based deployments through Azure CI/CD pipelines on a bi-weekly release cycle
-- 🏆 **Star of the Month Award — May 2024** for consistent delivery and technical contribution
+-  **Star of the Month Award — May 2024** for consistent delivery and technical contribution
 
 </details>
 
 <details>
-<summary><b>🏢 Tata Consultancy Services — Assistant System Engineer, Data Integration</b> &nbsp;|&nbsp; Jan 2023 – Mar 2024 &nbsp;|&nbsp; Chennai, India</summary>
+<summary><b> Tata Consultancy Services — Assistant System Engineer, Data Integration</b> &nbsp;|&nbsp; Jan 2023 – Mar 2024 &nbsp;|&nbsp; Chennai, India</summary>
 
 <br/>
 
@@ -169,8 +169,8 @@ class NaveenManikandan:
 - Debugged and refactored existing pipelines by fixing transformation logic and validating outputs before each production release
 - Traced and resolved job failures from server issues and connection timeouts on scheduled batch pipelines, restoring delivery within SLA windows
 - Automated data validation using SQL and shell scripts, eliminating manual checks on routine pipeline runs
-- 🏆 **On the Spot Award — Sep 2023** for implementing a production change with zero business disruption and minimal downtime
-- 🏆 **Star of the Month Award — Feb 2024** for consistent delivery
+-  **On the Spot Award — Sep 2023** for implementing a production change with zero business disruption and minimal downtime
+-  **Star of the Month Award — Feb 2024** for consistent delivery
 
 </details>
 
@@ -189,37 +189,37 @@ class NaveenManikandan:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [🧠 Hallucination Grounding in VLMs](https://github.com/ravensgit) | Python · PyTorch · BLIP · CLIP · Hugging Face | Reduced hallucination rate from **4.08% → 0.74%** (82% reduction) on 5,000 COCO images · Training-free inference · Ablation study across 7 weight configurations |
-| [🌍 Earthquake Risk Analysis](https://quakeanalysis.streamlit.app) | Python · PySpark · XGBoost · LightGBM · Streamlit | Distributed ML pipeline over **73K USGS records** · Custom Reliability feature engineering · Best model: RMSE 0.029, R² 0.994 · **Live deployed app** |
-| [🤖 Image Classification with Neural Networks](https://github.com/ravensgit) | Python · TensorFlow · Scikit-learn | 10-layer CNN on Fashion MNIST · **92.29% test accuracy** · L2 over dropout · Income classifier: **86% accuracy**, macro F1 0.81 |
+| [Hallucination Grounding in VLMs](https://github.com/ravensgit) | Python · PyTorch · BLIP · CLIP · Hugging Face | Reduced hallucination rate from **4.08% → 0.74%** (82% reduction) on 5,000 COCO images · Training-free inference · Ablation study across 7 weight configurations |
+| [Earthquake Risk Analysis](https://quakeanalysis.streamlit.app) | Python · PySpark · XGBoost · LightGBM · Streamlit | Distributed ML pipeline over **73K USGS records** · Custom Reliability feature engineering · Best model: RMSE 0.029, R² 0.994 · **Live deployed app** |
+| [Image Classification with Neural Networks](https://github.com/ravensgit) | Python · TensorFlow · Scikit-learn | 10-layer CNN on Fashion MNIST · **92.29% test accuracy** · L2 over dropout · Income classifier: **86% accuracy**, macro F1 0.81 |
 
 </div>
 
 ---
 
-## 🎖️ Achievements
+## Achievements
 
 <div align="center">
 
 | | Achievement | Details |
 |-|------------|---------|
-| 🏆 | Star of the Month Award | Tata Consultancy Services · May 2024 |
-| 🏆 | Star of the Month Award | Tata Consultancy Services · Feb 2024 |
-| ⚡ | On the Spot Award | Tata Consultancy Services · Sep 2023 · Zero downtime production change |
-| 🧠 | VLM Hallucination Research | 82% reduction in CHAIRs score · 5,000 COCO val2017 images |
-| 📊 | Live ML Deployment | quakeanalysis.streamlit.app · 73K records · Real-time magnitude predictor |
+| Star of the Month Award | Tata Consultancy Services · May 2024 |
+| Star of the Month Award | Tata Consultancy Services · Feb 2024 |
+| On the Spot Award | Tata Consultancy Services · Sep 2023 · Zero downtime production change |
+| VLM Hallucination Research | 82% reduction in CHAIRs score · 5,000 COCO val2017 images |
+| Live ML Deployment | quakeanalysis.streamlit.app · 73K records · Real-time magnitude predictor |
 
 </div>
 
 ---
 
-## 🎓 Education
+##  Education
 
 <div align="center">
 
@@ -234,18 +234,18 @@ class NaveenManikandan:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```
-🔗 LangChain         →  RAG pipelines · Retrieval-Augmented Generation
-🤖 LLM Fine-tuning   →  LoRA · PEFT · Instruction tuning
-⚙️  MLOps            →  Model serving · Monitoring · CI/CD for ML
-☁️  Cloud ML         →  GCP Vertex AI · Model deployment at scale
+   LangChain         →  RAG pipelines · Retrieval-Augmented Generation
+   LLM Fine-tuning   →  LoRA · PEFT · Instruction tuning
+   MLOps            →  Model serving · Monitoring · CI/CD for ML
+   Cloud ML         →  GCP Vertex AI · Model deployment at scale
 ```
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
