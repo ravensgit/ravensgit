@@ -26,52 +26,52 @@ naveen.cspro@gmail.com
 
 ---
 
+---
+
 # About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class NaveenManikandan:
-
     name = "Naveen Manikandan"
     location = "Buffalo, NY, USA"
+    degree = "MS Computer Science & Engineering @ University at Buffalo"
 
-    degree = "MS Computer Science & Engineering @ University at Buffalo (May 2026)"
-
-    stack = [
-        "Java",
-        "Python",
-        "Spring Boot",
-        "PyTorch",
-        "PySpark",
-        "BLIP",
-        "CLIP",
-        "Hugging Face",
-        "TensorFlow",
-        "Apache Kafka",
-        "Docker",
-        "Kubernetes",
-        "GCP"
-    ]
-
-    currently_learning = [
-        "Production RAG systems with FastAPI and LangGraph",
-        "ML Platforms and MLOps",
-        "Scalable Data Systems"
-    ]
-
-    experience = {
-        "TCS": "3 years | Java Backend + ETL",
-        "MS Research": "VLMs, Model Evaluation, Deep Learning"
+    core = {
+        "software": ["Java", "Spring Boot", "REST APIs", "Microservices"],
+        "data": ["SQL", "PySpark", "Kafka", "ETL Pipelines"],
+        "ai": ["PyTorch", "BLIP", "CLIP", "Hugging Face"],
+        "infra": ["Docker", "Kubernetes", "GCP", "CI/CD"]
     }
 
-    fun_fact = "CLIP alignment alone made hallucination worse. Understanding the failure mode led to better grounding."
+    experience = "3 years at TCS building Java backend systems and enterprise data pipelines"
 
-    def motto(self):
-        return "Build production systems. Build AI that people can trust."
+    current_focus = [
+        "Production RAG systems with FastAPI and LangGraph",
+        "ML platforms and MLOps",
+        "Scalable backend and data systems"
+    ]
+
+    def engineering_style(self):
+        return "Build reliable systems first. Add intelligence where it creates value."
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="40%" align="center" valign="top">
+
+<img 
+  src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"
+  width="100%"
+  alt="Software Engineer Illustration"
+/>
+
+</td>
+</tr>
+</table>
 ---
 
 ##  Tech Stack
