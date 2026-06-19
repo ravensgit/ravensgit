@@ -1,5 +1,5 @@
 <a href="https://github.com/ravensgit">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Still%20know%20how%20to%20ship%20production%20code.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Manikandan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Taught%20an%20AI%20to%20hallucinate%20less.%20Still%20know%20how%20to%20ship%20production%20code.&descAlignY=62&descSize=16" />
 </a>
 
 <div align="center">
@@ -52,13 +52,14 @@ class NaveenManikandan:
         "TensorFlow",
         "Apache Kafka",
         "Docker",
+        "Kubernetes",
         "GCP"
     ]
 
     currently_learning = [
-        "Cloud-native RAG systems",
+        "Production RAG systems with FastAPI and LangGraph",
         "ML Platforms and MLOps",
-        "Distributed Data Systems"
+        "Scalable Data Systems"
     ]
 
     experience = {
@@ -66,8 +67,7 @@ class NaveenManikandan:
         "MS Research": "VLMs, Model Evaluation, Deep Learning"
     }
 
-    fun_fact = "CLIP alignment alone made hallucination worse.
-                Better grounding came from understanding the failure mode."
+    fun_fact = "CLIP alignment alone made hallucination worse. Understanding the failure mode led to better grounding."
 
     def motto(self):
         return "Build production systems. Build AI that people can trust."
