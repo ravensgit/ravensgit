@@ -26,52 +26,71 @@ naveen.cspro@gmail.com
 
 ---
 
----
-
 # About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"
+    width="75%"
+    alt="Software Engineer | Backend Systems | Data Platforms | AI/ML Platforms"
+  />
+</p>
 
 ```python
 class NaveenManikandan:
     name = "Naveen Manikandan"
     location = "Buffalo, NY, USA"
+
     degree = "MS Computer Science & Engineering @ University at Buffalo"
 
     core = {
-        "software": ["Java", "Spring Boot", "REST APIs", "Microservices"],
-        "data": ["SQL", "PySpark", "Kafka", "ETL Pipelines"],
-        "ai": ["PyTorch", "BLIP", "CLIP", "Hugging Face"],
-        "infra": ["Docker", "Kubernetes", "GCP", "CI/CD"]
+        "software": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "Microservices"
+        ],
+        
+        "data": [
+            "SQL",
+            "PySpark",
+            "Kafka",
+            "ETL Pipelines"
+        ],
+        
+        "ai": [
+            "PyTorch",
+            "BLIP",
+            "CLIP",
+            "Hugging Face"
+        ],
+        
+        "infra": [
+            "Docker",
+            "Kubernetes",
+            "GCP",
+            "CI/CD"
+        ]
     }
 
-    experience = "3 years at TCS building Java backend systems and enterprise data pipelines"
+    experience = (
+        "3 years at TCS building Java backend systems "
+        "and enterprise data pipelines"
+    )
 
     current_focus = [
         "Production RAG systems with FastAPI and LangGraph",
-        "ML platforms and MLOps",
-        "Scalable backend and data systems"
+        "ML Platforms and MLOps",
+        "Scalable Backend and Data Systems"
     ]
 
     def engineering_style(self):
-        return "Build reliable systems first. Add intelligence where it creates value."
+        return (
+            "Build reliable systems first. "
+            "Add intelligence where it creates value."
+        )
 ```
 
-</td>
-
-<td width="45%" align="center" valign="top">
-
-<img 
-  src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"
-  width="100%"
-  alt="Software Engineer Illustration"
-/>
-
-</td>
-</tr>
-</table>
 ---
 
 ##  Tech Stack
