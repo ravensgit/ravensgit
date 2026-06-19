@@ -42,7 +42,8 @@ class NaveenManikandan:
         "infra": ["Docker", "Kubernetes", "GCP", "CI/CD"]
     }
 
-    experience = "3 years at TCS building Java backend systems and enterprise data pipelines"
+    experience = "3 years at TCS building Java backend systems
+                  and enterprise data pipelines"
 
     current_focus = [
         "RAG Systems (FastAPI, LangGraph)",
@@ -51,7 +52,8 @@ class NaveenManikandan:
     ]
 
     def motto(self)
-        return "Build reliable systems. Add intelligence where it creates value."
+        return "Build reliable systems. Add intelligence
+                where it creates value."
 ```
 <br clear="right"/>
 ---
