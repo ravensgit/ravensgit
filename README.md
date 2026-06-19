@@ -168,7 +168,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravensgit&la
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <div align="center">
 
@@ -328,7 +328,7 @@ Areas of interest include:
 
 ---
 
-# "Modern AI systems require more than just models. They require reliable software, scalable data pipelines and strong engineering foundations."
+> "Modern AI systems require more than just models. They require reliable software, scalable data pipelines and strong engineering foundations."
 
 ---
 
