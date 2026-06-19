@@ -27,13 +27,16 @@ naveen.cspro@gmail.com
 ---
 # About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/ravensgit/ravensgit/main/naveen_manikandan.png"/>
 
 ```python
 class NaveenManikandan:
     name = "Naveen Manikandan"
-    degree = "MS Computer Science & Engineering @ University at Buffalo"
+    degree = "MS CSE @ University at Buffalo"
     location = "Buffalo, NY, USA"
+
+    experience = "3 years at TCS building Java backend systems
+                  and enterprise data pipelines"
 
     expertise = {
         "software": ["Java", "Spring Boot", "REST APIs", "Microservices"],
@@ -42,9 +45,6 @@ class NaveenManikandan:
         "infra": ["Docker", "Kubernetes", "GCP", "CI/CD"]
     }
 
-    experience = "3 years at TCS building Java backend systems
-                  and enterprise data pipelines"
-
     current_focus = [
         "RAG Systems (FastAPI, LangGraph)",
         "ML Platforms and MLOps",
@@ -52,8 +52,7 @@ class NaveenManikandan:
     ]
 
     def motto(self)
-        return "Build reliable systems. Add intelligence
-                where it creates value."
+        return "Build systems. Add intelligence."
 ```
 <br clear="right"/>
 ---
