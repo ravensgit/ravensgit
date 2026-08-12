@@ -5,125 +5,68 @@
   />
 </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveen-cspro/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:naveen.cspro@gmail.com">Email</a>
-</p>
+### What I Work On
+
+- **Backend Engineering:** Java and Spring Boot services, REST APIs, microservices, asynchronous communication, caching, database performance, testing, and production troubleshooting.
+- **Data Engineering:** ETL and data integration, SQL, PySpark, distributed data processing, pipeline development, data validation, and workflow automation.
+- **AI & ML:** Applied machine learning and deep learning with PyTorch and scikit-learn, with graduate work in vision-language models, hallucination mitigation, and model evaluation.
+- **Systems:** Operating systems, concurrency, multithreading, synchronization, and low-level programming in C.
 
 ---
 
-## About
+### Featured Projects
 
-Software Engineer with 3 years of experience at Tata Consultancy Services, working across Java backend systems and enterprise data integration.
+#### Hallucination Grounding in Vision-Language Models
 
-I completed my M.S. in Computer Science and Engineering at the University at Buffalo, where my work expanded into distributed systems, data-intensive computing, and applied AI/ML.
+Built a training-free grounding framework using BLIP and CLIP to reduce hallucinated object mentions in generated image captions. Tested the approach across **5,000 COCO images**, reducing sentence-level hallucination from **4.08% to 0.74% (82% reduction)**. A 7-configuration ablation study showed that CLIP alignment alone could worsen hallucination and that the object-count penalty contributed most to the improvement.
 
-I enjoy building reliable systems and exploring how strong software and data engineering foundations can support modern AI applications.
+#### Pintos Operating System — Kernel & User Programs
 
----
+Extended the Pintos teaching OS in C with kernel scheduling, synchronization, system calls, process execution, and file-access functionality. Replaced busy-waiting thread sleeps with a blocking wake-time scheduler and implemented nested priority donation to address priority inversion.
 
-## Selected Projects
+#### Earthquake Risk Analysis & Prediction
 
-### Hallucination Grounding in Vision-Language Models
+Built a PySpark ML pipeline over **73K USGS seismic records** covering preprocessing, feature engineering, and model experimentation. Benchmarked **7 regression and classification models**, achieving a best **RMSE of 0.029 and R² of 0.994**, and deployed the selected model through an interactive Streamlit application.
 
-**Python · PyTorch · BLIP · CLIP · Hugging Face Transformers**
+#### Image Classification with Neural Networks
 
-Built a training-free vision-language grounding framework that reduced sentence-level hallucination from **4.08% to 0.74% across 5,000 COCO images (82% reduction)**, validated through a **7-configuration ablation study**.
-
-### Pintos Operating System — Kernel & User Programs
-
-**C · Operating Systems · Multithreading · Synchronization**
-
-Implemented kernel scheduling and user-program functionality in Pintos, including priority-aware scheduling, synchronization, system calls, process execution, and file access. Replaced busy-waiting with a blocking wake-time scheduler and implemented nested priority donation to address priority inversion.
-
-### Earthquake Risk Analysis & Prediction
-
-**Python · PySpark · Scikit-learn · Streamlit**
-
-Built a PySpark ML pipeline over **73K USGS seismic records** for preprocessing and feature engineering, benchmarked **7 regression and classification models**, and deployed the selected model through an interactive risk-analysis application.
-
-### Image Classification with Neural Networks
-
-**Python · TensorFlow · Keras · Scikit-learn**
-
-Built CNN and tabular neural-network models, reaching **92% test accuracy** on Fashion-MNIST and **86% accuracy with 0.81 macro F1** on income classification.
+Built neural-network models for image and tabular classification, including a CNN on Fashion-MNIST that reached **92% test accuracy** and an income classifier that achieved **86% accuracy with 0.81 macro F1** while handling class imbalance.
 
 ---
 
-## Technical Focus
+### Currently Into
 
-### Backend & APIs
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Data Engineering
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Systems & Infrastructure
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### AI & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![BLIP](https://img.shields.io/badge/BLIP-BF91F3?style=flat-square)
-![CLIP](https://img.shields.io/badge/CLIP-70A5FD?style=flat-square)
+- Building stronger backend and data-intensive systems with Java, distributed processing, and event-driven architectures.
+- Exploring reliable AI systems, particularly evaluation, hallucination detection, grounding, and LLM application infrastructure.
+- Going deeper into operating systems, concurrency, distributed systems, and production-oriented system design.
 
 ---
 
-## Experience
+### Technical Skills
 
-**Tata Consultancy Services (TCS)**  
-*Dec 2021 – Dec 2024*
-
-Worked across Java backend development and enterprise data integration for large-scale business systems, including microservices and REST APIs, production troubleshooting, database performance optimization, ETL development, data validation, and deployment environments.
+| **Category** | **Technologies** |
+| --- | --- |
+| **Languages** | Java, Python, C, JavaScript, SQL, Shell Scripting |
+| **Backend** | Spring Boot, Hibernate/JPA, REST APIs, Microservices, Apache Kafka, Redis, JUnit |
+| **Data Engineering** | Apache Spark, PySpark, Hadoop/HDFS, Informatica PowerCenter, IICS, ETL Pipelines, Pandas, NumPy |
+| **AI / ML** | PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM, Hugging Face Transformers, BLIP, CLIP |
+| **Systems** | Linux, Operating Systems, Multithreading, Data Structures, Distributed Systems |
+| **Cloud & DevOps** | GCP, Docker, Kubernetes, Azure DevOps, Jenkins, CI/CD, Git |
+| **Databases** | MySQL, MS SQL, Oracle, SAP HANA |
 
 ---
 
-## Certification
+### Connect with Me
 
-**Google Cloud Certified — Associate Cloud Engineer**
+- **LinkedIn:** [linkedin.com/in/naveen-cspro](https://www.linkedin.com/in/naveen-cspro/)
+- **Email:** [naveen.cspro@gmail.com](mailto:naveen.cspro@gmail.com)
+- **Location:** Buffalo, NY · Open to relocation
 
 ---
-
-## GitHub Activity
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ravensgit&show_icons=true&hide_border=true&theme=transparent"
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
   />
-</p>
-
----
-
-<p align="center">
-  <strong>Backend · Data Systems · Distributed Systems · Applied AI</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveen-cspro/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:naveen.cspro@gmail.com">Email</a>
 </p>
