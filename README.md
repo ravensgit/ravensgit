@@ -5,6 +5,14 @@
   />
 </a>
 
+### About
+
+Software Engineer with 3 years of experience at Tata Consultancy Services, working across Java backend systems and enterprise data integration. I completed my M.S. in Computer Science and Engineering at the University at Buffalo, where I expanded into distributed systems, data-intensive computing, and applied AI/ML.
+
+I enjoy building reliable systems, solving production problems, and exploring how strong backend and data engineering foundations can support modern AI applications.
+
+---
+
 ### What I Work On
 
 - **Backend Engineering:** Java and Spring Boot services, REST APIs, microservices, asynchronous communication, caching, database performance, testing, and production troubleshooting.
@@ -18,7 +26,7 @@
 
 #### Hallucination Grounding in Vision-Language Models
 
-Built a training-free grounding framework using BLIP and CLIP to reduce hallucinated object mentions in generated image captions. Tested the approach across **5,000 COCO images**, reducing sentence-level hallucination from **4.08% to 0.74% (82% reduction)**. A 7-configuration ablation study showed that CLIP alignment alone could worsen hallucination and that the object-count penalty contributed most to the improvement.
+Built a training-free grounding framework using BLIP and CLIP to reduce hallucinated object mentions in generated image captions. Tested the approach across **5,000 COCO images**, reducing sentence-level hallucination from **4.08% to 0.74% (82% reduction)**. A **7-configuration ablation study** showed that CLIP alignment alone could worsen hallucination and that the object-count penalty contributed most to the improvement.
 
 #### Pintos Operating System — Kernel & User Programs
 
@@ -65,8 +73,10 @@ Built neural-network models for image and tabular classification, including a CN
 ---
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
-  />
+  <i>"Modern AI systems require more than just models. They require reliable software, scalable data pipelines, and strong engineering foundations."</i>
 </p>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
+/>
